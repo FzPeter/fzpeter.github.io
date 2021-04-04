@@ -6,10 +6,10 @@ rouge:         true
 permalink:        pretty
 
 # Setup
-title:            Labádi Gergely
-tagline:          '&lt;/filológia&gt;'
-description:      'digitális és nem digitális bölcsészet • 18–19. századi magyar irodalom • olvasástörténet • szövegek'
-url:              http://labadigergely/github.io
+title:            Füzi Péter
+tagline:          'digital humanities'
+description:      ''
+url:              http://fzpeter/github.io
 baseurl:          '/'
 paginate:         5
 
